@@ -1,0 +1,39 @@
+  {
+  "project_info": {
+    "project_number": "978318966770",
+    "project_id": "compose-calculator",
+    "storage_bucket": "compose-calculator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978318966770:android:595ff607b45f4e9164756b",
+        "android_client_info": {
+          "package_name": "com.example.calculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978318966770-tksjkvunrc93h1e3gt4taodjpqvb22es.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ7euqR5BVK9ng4MfSmEEmcZaTRiCAODY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978318966770-tksjkvunrc93h1e3gt4taodjpqvb22es.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
